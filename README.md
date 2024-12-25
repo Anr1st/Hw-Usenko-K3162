@@ -67,7 +67,7 @@
 # Решения задания.
 
 # Часть 1.
- 1. Срздание файла:
+ 1. Создание файла:
 ```
 echo -e  "2024-12-25 10:00:01 INFO: Connection from 192.168.0.1\n2024-12-25 10:05:12 ERROR: Failed to connect to 10.0.0.5\n2024-12-25 10:10:34 INFO: User 192.168.1.5 logged in\n2024-12-25 10:15:44 WARNING: Low disk space\n2024-12-25 10:20:00 ERROR: Timeout while connecting to 172.16.0.3" > logs.txt
 ```
