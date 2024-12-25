@@ -15,3 +15,11 @@
 
      https://losst.pro/gerp-poisk-vnutri-fajlov-v-linux
      
+# Ход работы
+
+## Шаг №1. Подготовка рабочей среды:
+
+  1. Создайте тестовый файл:
+ ```
+  echo -e "John\nAlice\nBob\nAlice Johnson\njohn.doe@example.com\n" > names.txt
+ ```
